@@ -18,3 +18,7 @@ code {
   grid-column-gap: 50px;
   grid-template-columns: 1fr 1fr 1fr;
 }
+
+.robotDetails {
+  text-align: center;
+}
