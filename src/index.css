@@ -22,3 +22,11 @@ code {
 .robotDetails {
   text-align: center;
 }
+
+.robotDiv {
+    transition: transform .3s; /* Animation */
+  }
+
+  .robotDiv:hover {
+    transform: scale(1.1); 
+}
