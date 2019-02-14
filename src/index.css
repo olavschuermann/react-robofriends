@@ -6,6 +6,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to left, rgba(7,27,82,1) 0%, rgba(0,128,128,1) 100%);
 }
 
 code {
@@ -25,9 +26,12 @@ code {
 
 .robotDiv {
     transition: transform .3s; /* Animation */
+    background-color: #efefef;
+    margin-bottom: 50px;
+    border-radius: 10px;
   }
 
-  .robotDiv:hover {
+.robotDiv:hover {
     transform: scale(1.1); 
 }
 
@@ -37,7 +41,6 @@ code {
 
 .searchDiv {
   padding: 25px;
-  border-bottom: 1px solid #ccc;
 }
 
 INPUT.searchInput {
