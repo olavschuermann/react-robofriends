@@ -47,3 +47,9 @@ INPUT.searchInput {
   padding: 25px;
   font-size: 24px;
 }
+
+h1 {
+  font-family: 'Exo', sans-serif;
+  color: #fff;
+  font-size: 3em;
+}
