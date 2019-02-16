@@ -7,6 +7,8 @@ own css (css grids).
 
 The app uses https://robohash.org for generating random robot images.
 
+It shows some robots with name and email address that can be filtered by a search box.
+
 ## Instructions
 
 Just download or clone the project and use it as a starting point for your own project.
